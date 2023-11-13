@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pregroup", {data:[{}],fetch:{},mutations:void 0});
